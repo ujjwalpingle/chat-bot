@@ -1,7 +1,3 @@
-Here's a sample `README.md` for your Amazon Lex chatbot used for ordering pizza, focusing on creating a smooth customer experience:
-
----
-
 # 🍕 Pizza Ordering Chatbot
 
 This is an intelligent pizza ordering chatbot built using **Amazon Lex**. The chatbot simplifies the pizza ordering process by allowing customers to select pizza type, crust, additional toppings, appetizers, and drinks—all in one smooth conversation. The project enhances customer interaction and provides an efficient, automated way to place orders.
