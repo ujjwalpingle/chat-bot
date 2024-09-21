@@ -1,0 +1,1 @@
+{"name":"PizzaType","identifier":"X0XA28APM4","description":null,"slotTypeValues":[{"synonyms":[{"value":"italy , italian"}],"sampleValue":{"value":"Italian"}},{"synonyms":[{"value":"mexico , mexican"},{"value":"mex"}],"sampleValue":{"value":"Mexican"}}],"parentSlotTypeSignature":null,"valueSelectionSetting":{"resolutionStrategy":"TOP_RESOLUTION","regexFilter":null}}
