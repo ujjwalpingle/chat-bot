@@ -59,6 +59,3 @@ This is an intelligent pizza ordering chatbot built using **Amazon Lex**. The ch
 ## 📝 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-Feel free to modify the content based on the specific details of your project.
